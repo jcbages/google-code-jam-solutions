@@ -1,0 +1,6 @@
+*.class
+*.in
+*.out
+in_progress
+status
+.DS_Store
